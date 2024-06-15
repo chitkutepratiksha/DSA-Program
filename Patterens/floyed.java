@@ -8,7 +8,6 @@ public class floyed {
                 System.out.print(k + " ");
                 k++;
             }
-
             System.out.println();
         }
 
