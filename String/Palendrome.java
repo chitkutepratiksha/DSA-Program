@@ -1,5 +1,4 @@
 import java.io.*;
-
 public class Palendrome {
     public static void main(String[] args) {
         String str = "naman";
