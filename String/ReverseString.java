@@ -3,7 +3,7 @@ public class ReverseString {
         StringBuilder sb = new StringBuilder("Hello");
 
         // /2 for reverse the half string automatically half string will reverse
-        for (int i = 0; i < sb.length() / 2; i++) {
+        for (int i = 0; i < sb.length() / 2; i++){
 
             int front = i;
             int back = sb.length() - 1 - i;
