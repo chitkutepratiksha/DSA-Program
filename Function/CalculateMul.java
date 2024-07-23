@@ -2,7 +2,7 @@ import java.util.*;
 
 public class CalculateMul {
 
-    public static int PrintMul(int a, int b) {
+    public static int PrintMul(int a, int b)  {
         int mul = a * b;
 
         return mul;
