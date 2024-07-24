@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PrintName  {
+public class PrintName {
     public static void printName (String name) {
         System.out.println(name);
         return;
