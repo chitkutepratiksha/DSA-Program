@@ -9,7 +9,7 @@ public class PaiSumS {
             if (list.get(lp) + list.get(rp) == target) {
                 return true;
             } else if (list.get(lp) + list.get(rp) < target) {
-                lp++;
+                lp=lp+1;
             } else {
                 rp--;
             }
