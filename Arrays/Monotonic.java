@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.ArrayList ;
 
 public class Monotonic {
     public static boolean Number(ArrayList<Integer> nums) {
