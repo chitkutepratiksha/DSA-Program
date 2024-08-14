@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class PaiSumS {
+public class PaiSumS{
     public static boolean Sum(ArrayList<Integer> list, int target) {
         int lp = 0;
         int rp = list.size() - 1;
